@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "hery",
+    "password": "hery1"
+  },
+  "botToken": "",
+  "autoActivate": true,
+  "users": [
+    {
+      "username": "testuser",
+      "password": "pass123",
+      "active": true,
+      "id": "user-1"
+    }
+  ]
+}
